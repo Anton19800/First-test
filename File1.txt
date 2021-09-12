@@ -12,3 +12,4 @@ Repeat what I learned
 Change data from local repository
 Check on change data from remote server
 Repeat check from local server
+I can't remember a similar things
