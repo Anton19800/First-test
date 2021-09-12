@@ -1,6 +1,3 @@
-123
-
-456
 
 Привет Тоша не тупи сука!!!
 
@@ -17,7 +14,4 @@ Check to change data from remote server to local throught Git bash
 I will learn English to intermediate level 
 I learned English to upper intermediate 
 One more time
-Moving on
-Moveeeee
- Add line
- У меня получается
+У меня получается
