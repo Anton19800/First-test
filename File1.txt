@@ -9,3 +9,4 @@
 Стремись учись будь счастлив!!!
 Изменения через cmd
 Repeat what I learned
+Check on change data from remote server
