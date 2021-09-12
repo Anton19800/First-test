@@ -14,3 +14,4 @@ Check on change data from remote server
 Repeat check from local server
 I can't remember a similar things
 Check to change data from remote server to local throught Git bash
+I will learn English to intermediate level 
