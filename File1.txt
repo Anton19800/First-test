@@ -9,5 +9,6 @@
 Стремись учись будь счастлив!!!
 Изменения через cmd
 Repeat what I learned
+Change data from local repository
 Check on change data from remote server
-Repeat check
+Repeat check from local server
